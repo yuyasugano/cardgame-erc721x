@@ -7,7 +7,7 @@
 # Ignore build files.
 /test/
 /build/
-/node_modules/
-!/node_modules/erc721x/
+/node_modules
+!/erc721x/
 truffle.js
 truffle-config.js
